@@ -1,0 +1,62 @@
+﻿<Page x:Class="NASA_app_Gruncl.SpaceObjectPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NASA_app_Gruncl"
+      mc:Ignorable="d" 
+      d:DesignHeight="620" d:DesignWidth="325"
+      Title="SpaceObjectPage">
+
+    <Grid Background="#383838">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="5">
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Name: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Name}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="ID: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding ID}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Absolute magnitude: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Absolute_magnitude_h}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Estimated diameter (min): " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Estimated_diameter_min}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Estimated diameter (max): " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Estimated_diameter_max}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Potentially hazardous asteroid: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Is_potentially_hazardous_asteroid}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Sentry object: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Is_sentry_object}" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Foreground="White" FontSize="15" Content="Close approach date: " />
+                <Label Foreground="White" FontSize="15" Content="{Binding Close_approach_date}" />
+            </StackPanel>
+
+        </StackPanel>
+        <Button Content="Back" Grid.Row="1" Background="#282929"
+                Foreground="White" FontSize="20" BorderThickness="0" Click="Button_Click"/>
+    </Grid>
+</Page>

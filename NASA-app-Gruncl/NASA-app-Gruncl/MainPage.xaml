@@ -1,0 +1,38 @@
+﻿<Page x:Class="NASA_app_Gruncl.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NASA_app_Gruncl"
+      mc:Ignorable="d" 
+      d:DesignHeight="620" d:DesignWidth="325"
+      Title="MainPage">
+
+    <Page.DataContext>
+        <local:MainViewModel/>
+    </Page.DataContext>
+
+    <Grid Background="#282929">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="13*" />
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" Grid.Column="1" BorderThickness="0" Background="#282929"
+            Content="API" Foreground="White" FontSize="20" Click="API_Button_Click"/>
+        <Button Grid.Row="0" Grid.Column="2" BorderThickness="0" Background="#282929"
+            Content="⟳" Foreground="White" FontSize="20" Click="Refresh_Button_Click"/>
+        <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3">
+            <ListView Background="#383838" 
+            BorderThickness="0" x:Name="AsteroidList"
+            ItemsSource="{Binding spaceObjects}"
+            ItemContainerStyle="{StaticResource CollCard}" SelectionChanged="AsteroidList_SelectionChanged">
+
+            </ListView>
+        </ScrollViewer>
+    </Grid>
+</Page>

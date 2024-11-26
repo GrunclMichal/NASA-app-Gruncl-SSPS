@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\api.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\api.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\apiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\apiwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\apiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\apiwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\spaceobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\spaceobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\collcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\collcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\spaceobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\spaceobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\spaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\spaceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|c:\\users\\admin\\source\\repos\\nasa-app-gruncl\\nasa-app-gruncl\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B197CCBD-FB31-4823-9F46-02A2FDDA3DDC}|NASA-app-Gruncl\\NASA-app-Gruncl.csproj|solutionrelative:nasa-app-gruncl\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\APIWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIWindow.xaml.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\APIWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:06:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIWindow.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\APIWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIWindow.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\APIWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T05:49:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpaceObjectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObjectPage.xaml.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\SpaceObjectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObjectPage.xaml.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\SpaceObjectPage.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:23:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpaceObjectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObjectPage.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\SpaceObjectPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObjectPage.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\SpaceObjectPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T20:13:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainPage.xaml.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\MainPage.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:26:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainPage.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T19:22:50.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainViewModel.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\MainViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:56:48.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\App.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\App.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T00:56:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollCard.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\CollCard.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\CollCard.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\CollCard.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\CollCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T00:08:26.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\AssemblyInfo.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:28:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObject.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\SpaceObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\SpaceObject.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\SpaceObject.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:13:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Api.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\Api.txt",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\Api.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\Api.txt",
+              "RelativeToolTip": "NASA-app-Gruncl\\Api.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-20T22:51:24.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIHandler.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\APIHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\APIHandler.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\APIHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA+wCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:40:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainWindow.xaml",
+              "RelativeToolTip": "NASA-app-Gruncl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T22:37:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NASA-app-Gruncl\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NASA-app-Gruncl\\NASA-app-Gruncl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NASA-app-Gruncl\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:37:29.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
